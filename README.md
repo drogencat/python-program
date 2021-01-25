@@ -23,7 +23,7 @@ Python 案例<br>
 
 3.爬虫应用集合<br>
 
-- [根据微博用户名爬取该用户相册图片](https://github.com/drogencat/python-program/blob/master/PC/%E7%88%AC%E5%8F%96%E5%BE%AE%E5%8D%9A%E5%9B%BE%E7%89%87.exe)（另附exe可执行文件）<br>
+- [根据微博用户名爬取该用户相册图片](https://github.com/drogencat/python-program/tree/master/PC/fetchdata)（另附exe可执行文件）<br>
 
 
  _更多案例持续更新中，喜欢的话点个「Star」哟_<br>
